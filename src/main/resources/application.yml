@@ -1,0 +1,11 @@
+rates:
+  link: https://openexchangerates.org/api
+  values:
+    id: 379bdb89adfb4315a7573f7176ea947b
+    currency: RUB
+giphy:
+  link: https://api.giphy.com/v1/gifs/search
+  values:
+    id: Bm8yqXB7svE18eqtGP4oYc2mZRhOKKSg
+    firstTag: rich
+    secondTag: broke
