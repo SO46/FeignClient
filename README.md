@@ -1,5 +1,5 @@
 # FeignClient
-Сервис на Spring Boot 2 + Java.
+Сервис на Spring Boot.
 Для сборки используется Gradle. 
 Для взаимодействия с внешними сервисами используется Feign.
 Параметры вынесены в настройки application.yml.
